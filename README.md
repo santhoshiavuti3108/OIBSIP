@@ -26,37 +26,37 @@ telling the date and time, and opening websites in a browser.
 
 Start
 
-   ↓
+     ↓
    
 Initialize Text-to-Speech Engine
 
-   ↓
+     ↓
    
 Listen to User Voice
 
-   ↓
+     ↓
    
 Convert Speech to Text
 
-   ↓
+     ↓
    
 Process the Command
 
-   ↓
+     ↓
    
 Perform Action
 
 (Time / Date / Open Website / Respond)
 
-   ↓
+     ↓
    
 Convert Response to Speech
 
-   ↓
+     ↓
    
 Wait for Next Command
 
-   ↓
+     ↓
    
 End
 

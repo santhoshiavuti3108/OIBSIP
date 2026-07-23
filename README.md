@@ -143,9 +143,12 @@ BMI-Calculator/
 # output
 
 Enter your weight in kg: 70
+
 Enter your height in centimeters: 174
 
+
 Your BMI is: 23.12
+
 Category: over Weight
 
 # Author

@@ -24,39 +24,25 @@ telling the date and time, and opening websites in a browser.
 
 # Project Flow
 
-Start
-  ↓
+1.Start
    
-Initialize Text-to-Speech Engine
-  ↓
-   
-Listen to User Voice
+2.Initialize Text-to-Speech Engine
+  
+3.Listen to User Voice
 
-  ↓
-   
-Convert Speech to Text
+4.Convert Speech to Text
 
-  ↓
-   
-Process the Command
+5.Process the Command
 
-  ↓
-   
-Perform Action
+6.Perform Action
 
 (Time / Date / Open Website / Respond)
 
-  ↓
-   
-Convert Response to Speech
+7.Convert Response to Speech
 
-  ↓ 
-   
-Wait for Next Command
+8.Wait for Next Command
 
-  ↓
-   
-End
+9.End
 
 
 # Technologies Used

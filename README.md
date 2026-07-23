@@ -10,7 +10,8 @@ Domain : Python programming
 
 # Description 
 
-This is a simple Voice Assistant developed using Python. It listens to the user's voice, converts speech into text, 
+This is a simple Voice Assistant developed using Python. 
+It listens to the user's voice, converts speech into text, 
 and performs basic tasks such as speaking responses,
 telling the date and time, and opening websites in a browser.
 

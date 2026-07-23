@@ -25,11 +25,9 @@ telling the date and time, and opening websites in a browser.
 # Project Flow
 
 Start
-
   ↓
    
 Initialize Text-to-Speech Engine
-
   ↓
    
 Listen to User Voice

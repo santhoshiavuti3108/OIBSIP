@@ -133,7 +133,7 @@ BMI-Calculator/
 
 1. Clone this repository.
 2. Open the project in VS Code or any Python IDE.
-3. Run the program
+3. Run the program: bash' python Santhoshi_TASK2.py
 4.Enter your weight and height when prompted.
 
 # BMI Categories
@@ -232,3 +232,6 @@ Generated Password: A7@mK2#pQ9!x
 # Project file
 
 python password_generator.py
+
+# Author
+*Santhoshi Avuti*

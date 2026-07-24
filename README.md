@@ -133,11 +133,8 @@ BMI-Calculator/
 
 1. Clone this repository.
 2. Open the project in VS Code or any Python IDE.
-3. Run the program:
-   bash
-   python Santhoshi_TASK2.py
-   
-4. Enter your weight and height when prompted.
+3. Run the program
+4.Enter your weight and height when prompted.
 
 # BMI Categories
 
@@ -145,6 +142,10 @@ BMI-Calculator/
 - 18.5 to 24.9 – Normal Weight
 - 25.0 to 29.9 – Overweight
 - 30.0 and Above – Obese
+
+# project file
+
+python Santhoshi_TASK2.py
 
 # output
 
@@ -159,3 +160,75 @@ Category: over Weight
 
 # Author
 *Santhoshi Avuti*
+
+
+# Random Password Generator ( TASK 3 )
+
+A Python-based Random Password Generator developed as part of the Oasis Infobyte 
+Python Programming Internship.
+
+# Objective
+
+This project generates strong and random passwords based on user-selected criteria 
+such as password length, uppercase letters, lowercase letters, numbers, and symbols.
+
+# Features
+
+- User can choose password length
+- Minimum password length is 8 characters
+- Includes uppercase letters
+- Includes lowercase letters
+- Includes numbers
+- Includes special symbols
+- Requires at least 2 character types for a stronger password
+- Validates invalid inputs
+- Option to generate another password without restarting the program
+
+# Technologies Used
+
+- Python 3
+- `random` module
+- `string` module
+
+# project workflow
+
+1.Start
+   
+2.Get Password Length
+   
+3.Create Character Set
+   
+4.Generate Random Password
+   
+5.Display Password
+   
+6.End
+
+# How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the following command:
+
+# project structure
+
+Python-Task3-RandomPasswordGenerator/
+│
+├── password_generator.py
+└── README.md
+
+# output
+
+------ Random Password Generator ------
+
+Enter password length (minimum 8): 12
+Include uppercase letters? (yes/no): yes
+Include lowercase letters? (yes/no): yes
+Include numbers? (yes/no): yes
+Include symbols? (yes/no): yes
+
+Generated Password: A7@mK2#pQ9!x
+
+# Project file
+
+python password_generator.py

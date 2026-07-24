@@ -164,13 +164,17 @@ Category: over Weight
 
 # Random Password Generator ( TASK 3 )
 
-A Python-based Random Password Generator developed as part of the Oasis Infobyte 
+A Python-based Random Password Generator developed as part of the Oasis Infobyte
+
 Python Programming Internship.
 
-# Objective
+# Description
 
-This project generates strong and random passwords based on user-selected criteria 
-such as password length, uppercase letters, lowercase letters, numbers, and symbols.
+This project generates strong and random passwords based on 
+
+user-selected criteria such as password length,
+
+uppercase letters, lowercase letters, numbers, and symbols.
 
 # Features
 

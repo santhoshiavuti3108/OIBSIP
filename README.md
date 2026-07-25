@@ -75,6 +75,9 @@ Voice-Assistant/
 3. Run the program:
    bash
    python Santhoshi_TASK1.py
+
+# project file
+Santhoshi_TASK1.py
    
 
 # Output
@@ -145,7 +148,7 @@ BMI-Calculator/
 
 # project file
 
-python Santhoshi_TASK2.py
+ Santhoshi_TASK2.py
 
 # output
 
@@ -218,7 +221,7 @@ uppercase letters, lowercase letters, numbers, and symbols.
 
 Python-Task3-RandomPasswordGenerator/
 │
-├── password_generator.py
+├── Santhoshi_TASK3.py
 └── README.md
 
 # output
@@ -235,7 +238,103 @@ Generated Password: A7@mK2#pQ9!x
 
 # Project file
 
-python password_generator.py
+Santhoshi_TASK3.py
 
 # Author
 *Santhoshi Avuti*
+
+# Weather App ( TASK4 )
+
+A Python-based Random Weather App developed as part of the Oasis Infobyte
+
+Python Programming Internship.
+
+# Description
+
+A simple python program command line application that fetches real time weather information for any given city using the OpenWeatherMap API.
+
+# Features
+
+-fetches real time weather data
+-validates user input to prevent empty city searches
+-uses request library to connect with openweatherapp API.
+
+# Technologies used
+
+- Python 3
+- Requests library
+- OpenWeatherApp API
+- JSON
+
+# How to run
+
+1.Clone this repository
+2.Install required package
+  ''bash
+       pip install requests
+3.Add your API key
+     API_KEY= "your actual api key here"
+4.Execute the script
+   ''bash
+      python Santhoshi_TASK4.py
+
+
+# Project flow
+
+1.Start
+
+2.User Input
+
+3.Input Validation
+
+4.URL Construction
+
+5.API Request
+
+6.Response Processing 
+
+7.Data Extraction 
+
+8.Display Output 
+
+9.End 
+
+# project structure
+
+Python-Task4-weather app/
+│
+├── Santhoshi_TASK4.py
+└── README.md
+
+# output
+
+
+
+
+
+
+# project file
+Santhoshi_TASK4.py
+
+# author
+*Avuti Santhoshi*
+
+
+
+
+
+
+
+
+
+
+
+      
+     
+ 
+
+
+
+
+
+

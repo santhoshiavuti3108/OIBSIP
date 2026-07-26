@@ -66,7 +66,7 @@ telling the date and time, and opening websites in a browser.
 
 # Project Structure
 
-Voice-Assistant/
+ PYTHON TASK1 Voice-Assistant/
 │── Santhoshi_TASK1.py
 │── README.md
 
@@ -119,7 +119,7 @@ The BMI Calculator is a simple Python application that calculates a user's Body 
 
 # Project Structure
 
-BMI-Calculator/
+ PYTHON TASK2 BMI-Calculator/
 │── Santhoshi_TASK2.py
 │── README.md
 
@@ -146,8 +146,11 @@ BMI-Calculator/
 # How to Run
 
 1. Clone this repository.
-2. Open the project in VS Code or any Python IDE.
+
+2.Open the project in VS Code or any Python IDE.
+
 3. Run the program: bash' python Santhoshi_TASK2.py
+ 
 4.Enter your weight and height when prompted.
 
 # BMI Categories
@@ -225,17 +228,17 @@ uppercase letters, lowercase letters, numbers, and symbols.
 # How to Run
 
 1. Download or clone this repository.
+
 2. Open the project folder.
+
 3. Run the following command:
 
 # project structure
 
-Python-Task3-RandomPasswordGenerator
+ PYTHON TASK2 BMI-Calculator/
+│── Santhoshi_TASK2.py
+│── README.md
 
-
-── Santhoshi_TASK3.py
-
-── README.md
 
 # output
 
@@ -332,8 +335,19 @@ Python-Task4-weather app/
 
 # output
 
+Enter city name: Hyderabad
 
+------ Weather Report ------
 
+City: Hyderabad
+
+Temperature: 30.8 °C
+
+Humidity: 62 %
+
+Weather: scattered clouds
+
+Wind Speed: 3.5 m/s
 
 
 
@@ -352,10 +366,12 @@ A Python-based Chat application developed as part of the Oasis Infobyte
 Python Programming Internship.
 
 
-# Objective
+# Description
+
 This project is a simple real-time chat application developed using Python socket programming. It allows two clients to communicate with each other through a server running on localhost.
 
 # Features
+
 - Server accepts client connections
 - Real-time message exchange
 - Two-way communication
@@ -363,6 +379,7 @@ This project is a simple real-time chat application developed using Python socke
 - Simple command-line interface
 
 # Technologies Used
+
 - Python
 - Socket
 - Threading
@@ -375,6 +392,7 @@ This project is a simple real-time chat application developed using Python socke
 
 
 # Project Files
+
 - *task5_server.py* - Handles client connections and message broadcasting.
 - *task5_client.py* - Connects to the server and sends/receives messages.
 - *README.md* - Project documentation.

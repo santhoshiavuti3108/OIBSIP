@@ -8,6 +8,11 @@ Domain : Python programming
 
 # VOICE ASSISTANT (TASK 1)
 
+A Python-based voice assitant developed as part of the Oasis Infobyte
+
+Python Programming Internship.
+
+
 # Description 
 
 This is a simple Voice Assistant developed using Python. 
@@ -67,6 +72,7 @@ Voice-Assistant/
 
 
 # How to Run
+
 1. Clone this repository.
 2. Install the required libraries:
    bash
@@ -89,6 +95,11 @@ The assistant listens to voice commands and responds with speech. It can also te
 
 
 # BMI Calculator (TASK 2)
+
+A Python-based BMI calculator developed as part of the Oasis Infobyte
+
+Python Programming Internship.
+
 
 # Description
 
@@ -318,6 +329,63 @@ Santhoshi_TASK4.py
 
 # author
 *Avuti Santhoshi*
+
+
+# Chat Application ( TASK 5 )
+
+
+A Python-based Chat application developed as part of the Oasis Infobyte
+
+Python Programming Internship.
+
+
+# Objective
+This project is a simple real-time chat application developed using Python socket programming. It allows two clients to communicate with each other through a server running on localhost.
+
+# Features
+- Server accepts client connections
+- Real-time message exchange
+- Two-way communication
+- Runs on localhost
+- Simple command-line interface
+
+# Technologies Used
+- Python
+- Socket
+- Threading
+
+# Project Structure
+
+ PYTHON TASK5 Chat Application/
+│── task5_server.py
+│── task5_client.py
+
+
+# Project Files
+- *task5_server.py* - Handles client connections and message broadcasting.
+- *task5_client.py* - Connects to the server and sends/receives messages.
+- *README.md* - Project documentation.
+
+# How to Run
+
+1. Open the first terminal and run:
+
+python task5_server.py
+
+
+2. Open two more terminals and run:
+
+python task5_client.py
+
+
+3. Enter your name in both clients and start chatting.
+
+# Output
+- The server accepts multiple client connections.
+- Clients can exchange messages in real time through the server.
+
+# Author
+*Santhoshi Avuti*
 
 
 

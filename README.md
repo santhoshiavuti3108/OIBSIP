@@ -230,19 +230,25 @@ uppercase letters, lowercase letters, numbers, and symbols.
 
 # project structure
 
-Python-Task3-RandomPasswordGenerator/
-│
-├── Santhoshi_TASK3.py
-└── README.md
+Python-Task3-RandomPasswordGenerator
+
+
+── Santhoshi_TASK3.py
+
+── README.md
 
 # output
 
 ------ Random Password Generator ------
 
 Enter password length (minimum 8): 12
+
 Include uppercase letters? (yes/no): yes
+
 Include lowercase letters? (yes/no): yes
+
 Include numbers? (yes/no): yes
+
 Include symbols? (yes/no): yes
 
 Generated Password: A7@mK2#pQ9!x
@@ -267,7 +273,9 @@ A simple python program command line application that fetches real time weather 
 # Features
 
 -fetches real time weather data
+
 -validates user input to prevent empty city searches
+
 -uses request library to connect with openweatherapp API.
 
 # Technologies used
@@ -280,12 +288,17 @@ A simple python program command line application that fetches real time weather 
 # How to run
 
 1.Clone this repository
+
 2.Install required package
   ''bash
        pip install requests
+
 3.Add your API key
+
      API_KEY= "your actual api key here"
+
 4.Execute the script
+
    ''bash
       python Santhoshi_TASK4.py
 
